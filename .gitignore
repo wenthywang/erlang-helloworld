@@ -1,0 +1,32 @@
+# Compiled source #
+###################
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+.retry
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+*.war
+.metadata
+# Logs and databases #
+######################
+*.log
+#filepath
+target
+WebRoot/WEB-INF/classes
+out/
+*.dump
+
+.DS_Store
+
